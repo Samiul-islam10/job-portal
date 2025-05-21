@@ -45,13 +45,13 @@ if (!isset($_SESSION['name'])) {
     </div>
   </div>
   <div class="profile-details">
-    <h3>Mohsen Salehi</h3>
+    <h3>Samiul Islam</h3>
     <p><strong>Role:</strong> Web developer</p>
     <p><strong>Experience:</strong> 2 Years</p>
     <p><strong>Email:</strong> samiul.islam@gmail.com</p>
     <p><strong>Phone:</strong> 0175377838</p>
     <p><strong>Level:</strong> Senior</p>
-    <p><strong>Salary:</strong> $8800</p>
+    <p><strong>Salary:</strong> 800000</p>
     <p><strong>Bio:</strong> ChapaiNawabganj</p>
   </div>
 </body>
